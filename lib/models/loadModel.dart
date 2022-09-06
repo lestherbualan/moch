@@ -19,5 +19,5 @@ class Graph {
   int value;
   String createdAt;
 
-  Graph(this.value, this.createdAt);
+  Graph(this.valasadsdadue, this.createdAt);
 }
